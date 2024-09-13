@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "outDir": "",
+        "rootDir": "",
+        "sourceMap": true,
+        "moduleResolution": "node",
+        "module": "es6",
+        "target": "es6", 
+        // test 
+        // "lib": ["es6"],                     
+        "allowJs": true,
+        // "strict": true,         
+        // "noImplicitAny": true,
+        "esModuleInterop": true,
+        // "resolveJsonModule": true
+        "experimentalDecorators": true
+    },
+    "include": ["**/*"],
+
+}
